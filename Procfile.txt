@@ -1,1 +1,1 @@
-web: python EVIL.py
+web: python main.py
